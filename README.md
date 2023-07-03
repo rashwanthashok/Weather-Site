@@ -14,7 +14,7 @@ Introducing my weather app built in JavaScript! With data sourced from OpenWeath
 
 Live Demo:
 
-    https://codesoftg.github.io/TG-Codes-Weather-Site/
+    https://rashwanthashok.github.io/Weather-Site/
     
 ## Getting Started
 
