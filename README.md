@@ -44,7 +44,9 @@ To explore or modify the code, follow these steps:
 🔍 5.️ Search Functionality: Easily search and find weather data for specific cities.
 
 
+## Deployment Status:
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f72215f9-0e50-4c5a-ab63-822f1058e866/deploy-status)](https://app.netlify.com/sites/jsprojects-weather-site/deploys)
 
 ## Contributing
 
